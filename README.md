@@ -2,14 +2,17 @@
 This module returns postal numbers of cities in Serbia
 
 Nodejs Poštanski brojevi modul
+# Installation
 
-Usage:
+`npm i postanski`
 
-npm i postanski
 
-const postbr = require('postanski');
+# Usage:
 
-postbr.postanski('naziv mesta');
+
+`const postbr = require('postanski');
+
+postbr.postanski('naziv mesta');`
 
 It uses similarity alogrithms to find matching city.
 
