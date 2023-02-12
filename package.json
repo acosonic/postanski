@@ -1,0 +1,24 @@
+{
+  "name": "postanski",
+  "version": "1.0.0",
+  "description": "Poštanski brojevi u Srbiji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acosonic/postanski.git"
+  },
+  "keywords": [
+    "postanski",
+    "srbija",
+    "mesta"
+  ],
+  "author": "Aleksandar Pavić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acosonic/postanski/issues"
+  },
+  "homepage": "https://github.com/acosonic/postanski#readme"
+}
